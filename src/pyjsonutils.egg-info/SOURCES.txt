@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/pyjsonutils/__init__.py
+src/pyjsonutils/main.py
+src/pyjsonutils.egg-info/PKG-INFO
+src/pyjsonutils.egg-info/SOURCES.txt
+src/pyjsonutils.egg-info/dependency_links.txt
+src/pyjsonutils.egg-info/top_level.txt

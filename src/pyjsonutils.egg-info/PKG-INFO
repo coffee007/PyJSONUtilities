@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: pyjsonutils
+Version: 0.1.0
+Summary: Some basic functions used often with JSON files
+Home-page: https://github.com/coffee007/PyJSONUtilities
+Author: Me
+Author-email: pyjsonutils@gmail.com
+License: MIT
+Project-URL: Bug Tracker, https://github.com/coffee007/PyJSONUtilities/issues
+Description: # PyJSONUtils
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
